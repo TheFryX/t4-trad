@@ -785,6 +785,114 @@
       "Translations": {
         "plPL": "{0} {1} jest kompatybilny tylko z Diablo IV {2}, jednak twoja wersja jest {3}."
       }
+    },
+    "sum of skill rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "plPL": "sum of skill rank bonuses"
+      }
+    },
+    "sum of skill cluster rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "plPL": "sum of skill cluster rank bonuses"
+      }
+    },
+    "sum of skill type rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "plPL": "sum of skill type rank bonuses"
+      }
+    },
+    "alphabetical": {
+      "Context": "customizer-view",
+      "Translations": {
+        "plPL": "alphabetical"
+      }
+    },
+    "by category": {
+      "Context": "customizer-view",
+      "Translations": {
+        "plPL": "by category"
+      }
+    },
+    "by package": {
+      "Context": "customizer-view",
+      "Translations": {
+        "plPL": "by package"
+      }
+    },
+    "Utility": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Utility"
+      }
+    },
+    "behavior settings": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "plPL": "behavior settings"
+      }
+    },
+    "Fight": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Fight"
+      }
+    },
+    "Map": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Map"
+      }
+    },
+    "Marker": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Marker"
+      }
+    },
+    "Inventory": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Inventory"
+      }
+    },
+    "material count": {
+      "Context": "T4.Plugins.Default.MaterialCountOverInventory",
+      "Translations": {
+        "plPL": "material count"
+      }
+    },
+    "Loot": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Loot"
+      }
+    },
+    "Quest": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Quest"
+      }
+    },
+    "WorldEvent": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "WorldEvent"
+      }
+    },
+    "Dungeon": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "Dungeon"
+      }
+    },
+    "ActionBar": {
+      "Context": "customizer-category",
+      "Translations": {
+        "plPL": "ActionBar"
+      }
     }
   }
 }
