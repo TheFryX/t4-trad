@@ -785,6 +785,114 @@
       "Translations": {
         "zhCN": "{0} {1} 仅暗黑破坏神4可用 {2}, 您的版本是 {3}."
       }
+    },
+    "sum of skill rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "zhCN": "sum of skill rank bonuses"
+      }
+    },
+    "sum of skill cluster rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "zhCN": "sum of skill cluster rank bonuses"
+      }
+    },
+    "sum of skill type rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "zhCN": "sum of skill type rank bonuses"
+      }
+    },
+    "alphabetical": {
+      "Context": "customizer-view",
+      "Translations": {
+        "zhCN": "alphabetical"
+      }
+    },
+    "by category": {
+      "Context": "customizer-view",
+      "Translations": {
+        "zhCN": "by category"
+      }
+    },
+    "by package": {
+      "Context": "customizer-view",
+      "Translations": {
+        "zhCN": "by package"
+      }
+    },
+    "Utility": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Utility"
+      }
+    },
+    "behavior settings": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "zhCN": "behavior settings"
+      }
+    },
+    "Fight": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Fight"
+      }
+    },
+    "Map": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Map"
+      }
+    },
+    "Marker": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Marker"
+      }
+    },
+    "Inventory": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Inventory"
+      }
+    },
+    "material count": {
+      "Context": "T4.Plugins.Default.MaterialCountOverInventory",
+      "Translations": {
+        "zhCN": "material count"
+      }
+    },
+    "Loot": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Loot"
+      }
+    },
+    "Quest": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Quest"
+      }
+    },
+    "WorldEvent": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "WorldEvent"
+      }
+    },
+    "Dungeon": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "Dungeon"
+      }
+    },
+    "ActionBar": {
+      "Context": "customizer-category",
+      "Translations": {
+        "zhCN": "ActionBar"
+      }
     }
   }
 }

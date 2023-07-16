@@ -3,283 +3,283 @@
     "loading version information...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "загрузка информации о версии..."
+        "ruRU": "Загрузка информации о версии..."
       }
     },
     "loading database...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "загрузка базы данных..."
+        "ruRU": "Загрузка базы данных..."
       }
     },
     "accessing online services...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "доступ к онлайн-сервисам..."
+        "ruRU": "Доступ к онлайн-сервисам..."
       }
     },
     "initializing environment...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "инициализация окружения..."
+        "ruRU": "Инициализация среды..."
       }
     },
     "compiling plugins...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "компиляция плагинов..."
+        "ruRU": "Компиляция плагинов..."
       }
     },
     "loading plugin package: {0}": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "загрузка плагина: {0}"
+        "ruRU": "Загрузка пакета плагина: {0}"
       }
     },
     "author": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "автор"
+        "ruRU": "Автор"
       }
     },
     "local version": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "локал. версия"
+        "ruRU": "Локал. версия"
       }
     },
     "server version": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "сервер. версия"
+        "ruRU": "Сервер. версия"
       }
     },
     "enabled": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "включено"
+        "ruRU": "Включено"
       }
     },
     "search plugins": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "поиск"
+        "ruRU": "Поиск"
       }
     },
     "reset feature": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "сброс"
+        "ruRU": "Сброс"
       }
     },
     "save all customizations": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "сохранить все настройки"
+        "ruRU": "Сохранить все настройки"
       }
     },
     "update and overwrite curated plugins": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "обновить и перезаписать плагины"
+        "ruRU": "Обновление и перезапись плагинов"
       }
     },
     "current value": {
       "Context": "T4.Plugins.Default.ActionBarResourceValue",
       "Translations": {
-        "ruRU": "текущее здоровье"
+        "ruRU": "Текущее здоровье"
       }
     },
     "regeneration value": {
       "Context": "T4.Plugins.Default.ActionBarResourceValue",
       "Translations": {
-        "ruRU": "скорость регенерации"
+        "ruRU": "Скорость регенерации"
       }
     },
     "name on map": {
       "Context": "T4.Plugins.Default.MissingWaypointsOnMap",
       "Translations": {
-        "ruRU": "название на карте"
+        "ruRU": "Название на карте"
       }
     },
     "quest name on map": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "ruRU": "название квеста на карте"
+        "ruRU": "Название квеста на карте"
       }
     },
     "icon on map": {
       "Context": "T4.Plugins.Default.PlantsAndOresOnMap",
       "Translations": {
-        "ruRU": "иконка на карте"
+        "ruRU": "Иконка на карте"
       }
     },
     "name on crafting panel": {
       "Context": "T4.Plugins.Default.AspectName",
       "Translations": {
-        "ruRU": "название на панели крафта"
+        "ruRU": "Название на панели крафта"
       }
     },
     "name on collection panel": {
       "Context": "T4.Plugins.Default.AspectName",
       "Translations": {
-        "ruRU": "название на панели коллекции"
+        "ruRU": "Название на панели коллекции"
       }
     },
     "value": {
       "Context": "T4.Plugins.Default.BarrierAmountOverLifeBall",
       "Translations": {
-        "ruRU": "значение"
+        "ruRU": "Значение"
       }
     },
     "quest chest on map": {
       "Context": "T4.Plugins.Default.ChestsOnMap",
       "Translations": {
-        "ruRU": "квестовые сундуки на карте"
+        "ruRU": "Сундуки с квестами на карте"
       }
     },
     "event chest on map": {
       "Context": "T4.Plugins.Default.ChestsOnMap",
       "Translations": {
-        "ruRU": "эвентовые сундуки на карте"
+        "ruRU": "Эвентовые сундуки на крте"
       }
     },
     "regular chest on map": {
       "Context": "T4.Plugins.Default.ChestsOnMap",
       "Translations": {
-        "ruRU": "обычные сундуки на карте"
+        "ruRU": "Обычные сундуки на карте"
       }
     },
     "icon and name on map": {
       "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
       "Translations": {
-        "ruRU": "иконка и название на карте"
+        "ruRU": "Иконка и название на карте"
       }
     },
     "performance settings": {
       "Context": "T4.Plugins.Default.GlobalOptions",
       "Translations": {
-        "ruRU": "настройки производительности"
+        "ruRU": "Настройки производительности"
       }
     },
     "count on stash tabs": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "ruRU": "счетчик предметов на вкладках тайника"
+        "ruRU": "Счетчик предметов на вкладках тайника"
       }
     },
     "count on inventory tabs": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "ruRU": "счетчик предметов на вкладках инвентаря"
+        "ruRU": "Счетчик предметов на вкладках инвентаря"
       }
     },
     "regular item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "обычные предметы на карте"
+        "ruRU": "Обычные предметы на карте"
       }
     },
     "rare /standard/ item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "редкие /стандартные/ предметы на карте"
+        "ruRU": "Редкие /стандартные/ предметы на карте"
       }
     },
     "rare /sacred/ item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "редкие /священные/ предметы на карте"
+        "ruRU": "Редкие /священные/ предметы на карте"
       }
     },
     "rare /ancestral/ item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "редкие /наследные/ предметы на карте"
+        "ruRU": "Редкие /наследные/ предметы на карте"
       }
     },
     "legendary item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "легендарные предметы на карте"
+        "ruRU": "Легендарные предметы на карте"
       }
     },
     "unique item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "уникальные предметы на карте"
+        "ruRU": "Уникальные предметы на карте"
       }
     },
     "regular monster on map": {
       "Context": "T4.Plugins.Default.MonsterOnMap",
       "Translations": {
-        "ruRU": "обычные монстры на карте"
+        "ruRU": "Обычные монстры на карте"
       }
     },
     "elite monster on map": {
       "Context": "T4.Plugins.Default.MonsterOnMap",
       "Translations": {
-        "ruRU": "элитные монстры на карте"
+        "ruRU": "Элитные монстры на карте"
       }
     },
     "icon on ground": {
       "Context": "T4.Plugins.Default.PlayersOnGround",
       "Translations": {
-        "ruRU": "иконка на земле"
+        "ruRU": "Иконка на земле"
       }
     },
     "destination name on map": {
       "Context": "T4.Plugins.Default.PortalDestinationOnMap",
       "Translations": {
-        "ruRU": "название места назначения на карте"
+        "ruRU": "Название места назначения на карте"
       }
     },
     "side quest name on map": {
       "Context": "T4.Plugins.Default.SideQuestNameOnMap",
       "Translations": {
-        "ruRU": "название побочных заданий на карте"
+        "ruRU": "Название побочных заданий на карте"
       }
     },
     "sign on map": {
       "Context": "T4.Plugins.Default.SignOnMap",
       "Translations": {
-        "ruRU": "знак на карте"
+        "ruRU": "Знак на карте"
       }
     },
     "stronghold on map": {
       "Context": "T4.Plugins.Default.StrongholdOnMap",
       "Translations": {
-        "ruRU": "крепости на карте"
+        "ruRU": "Крепости на карте"
       }
     },
     "filter name": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "название фильтра"
+        "ruRU": "Название фильтра"
       }
     },
     "character class": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "класс"
+        "ruRU": "Класс"
       }
     },
     "item type": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "тип предмета"
+        "ruRU": "Тип предмета"
       }
     },
     "item quality": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "редкость предмета"
+        "ruRU": "Редкость предмета"
       }
     },
     "quality modifier": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "качество предмета"
+        "ruRU": "Качество предмета"
       }
     },
     "#1 mandatory": {
@@ -357,25 +357,25 @@
     "save all rules": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "сохранить"
+        "ruRU": "Сохранить все правила"
       }
     },
     "add new rule": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "добавить правило"
+        "ruRU": "Добавить правило"
       }
     },
     "delete rule": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "удалить правило"
+        "ruRU": "Удалить правило"
       }
     },
     "duplicate rule": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "клонировать правило"
+        "ruRU": "Клонировать правило"
       }
     },
     "turn on/off": {
@@ -387,31 +387,31 @@
     "search stats": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "поиск"
+        "ruRU": "Статистика поиска"
       }
     },
     "search rules": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "поиск"
+        "ruRU": "Поиск"
       }
     },
     "rule name": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "название"
+        "ruRU": "Имя правила"
       }
     },
     "state": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "статус"
+        "ruRU": "Состояние"
       }
     },
     "rule description": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "описание"
+        "ruRU": "Описание правила"
       }
     },
     "and at least {0} of these:": {
@@ -423,265 +423,265 @@
     "on": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "вкл"
+        "ruRU": "Вкл"
       }
     },
     "error during the compilation of the following plugin package: {0}": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "ошибка при компиляции плагина: {0}"
+        "ruRU": "Ошибка при компиляции следующего пакета плагинов: {0}"
       }
     },
     "update available": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "доступно обновление"
+        "ruRU": "Доступно обновление"
       }
     },
     "display the amount of hitpoints over the globe on the action bar": {
       "Context": "T4.Plugins.Default.ActionBarHitpointValue",
       "Translations": {
-        "ruRU": "отображение количества здоровья на шаре здоровья"
+        "ruRU": "Отображает количество здоровья на шаре здоровья"
       }
     },
     "font": {
       "Context": "T4.Plugins.Default.ActionBarHitpointValue",
       "Translations": {
-        "ruRU": "шрифт"
+        "ruRU": "Шрифт"
       }
     },
     "width": {
       "Context": "T4.Plugins.Default.ActionBarHitpointValue",
       "Translations": {
-        "ruRU": "ширина"
+        "ruRU": "Ширина"
       }
     },
     "height": {
       "Context": "T4.Plugins.Default.ActionBarHitpointValue",
       "Translations": {
-        "ruRU": "высота"
+        "ruRU": "Высота"
       }
     },
     "display the amount of class resources (mana, fury, spirit, energy, essence) over the globe on the action bar": {
       "Context": "T4.Plugins.Default.ActionBarResourceValue",
       "Translations": {
-        "ruRU": "отображение количества ресурса класса (мана, ярость, дух, энергия, эссенция) на шаре ресурса"
+        "ruRU": "Отображает количество ресурса класса (мана, ярость, дух, энергия, эссенция) на шаре ресурса"
       }
     },
     "display activated waypoints on the map": {
       "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
       "Translations": {
-        "ruRU": "отображение названий активированных врат странствий на карте"
+        "ruRU": "Отображает название активированных врат странствий на карте"
       }
     },
     "display all known quest names on the map": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "ruRU": "отображение на карте названий квестов"
+        "ruRU": "Отображает на карте названия квестов"
       }
     },
     "vertical offset": {
       "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
       "Translations": {
-        "ruRU": "смещение по вертикали"
+        "ruRU": "Смещение по вертикале"
       }
     },
     "name font": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "ruRU": "шрифт"
+        "ruRU": "Шрифт"
       }
     },
     "quest type font": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "ruRU": "шрифт типа квеста"
+        "ruRU": "Шрифт типа квеста"
       }
     },
     "maximum zoom level": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "ruRU": "максимальный уровень приближения"
+        "ruRU": "Максимальный уровень приблежения"
       }
     },
     "display all Altar Of Lilith locations on the map": {
       "Context": "T4.Plugins.Default.AltarOfLilithOnMap",
       "Translations": {
-        "ruRU": "отображение всех мест расположения алтарей Лилит на карте"
+        "ruRU": "Отображает все места расположения алтарей Лилит на карте"
       }
     },
     "icon size": {
       "Context": "T4.Plugins.Default.AltarOfLilithOnMap",
       "Translations": {
-        "ruRU": "размер иконки"
+        "ruRU": "Размер иконки"
       }
     },
     "display aspect names on crafting panel/collection panel": {
       "Context": "T4.Plugins.Default.AspectName",
       "Translations": {
-        "ruRU": "отображение названий аспектов на панели крафта/коллекции"
+        "ruRU": "Отображает названий аспектов на панели крафта/коллекции"
       }
     },
     "display the amount of barrier over the life globe": {
       "Context": "T4.Plugins.Default.BarrierAmountOverLifeBall",
       "Translations": {
-        "ruRU": "отображение значения барьера на шаре здоровья"
+        "ruRU": "Отображает значение барьера на шаре здоровья"
       }
     },
     "display chest icons on the map": {
       "Context": "T4.Plugins.Default.ChestsOnMap",
       "Translations": {
-        "ruRU": "отображение иконок сундуков на карте"
+        "ruRU": "Отображает иконоки сундуков на карте"
       }
     },
     "displays actor debug information when debug overlay (F11) is turned on": {
       "Context": "T4.Plugins.Default.DebugActors",
       "Translations": {
-        "ruRU": "отображение отладочной информацию, когда включен отладочный оверлей (F11)"
+        "ruRU": "Отображает отладочную информацию, когда включен отладочный оверлей (F11)"
       }
     },
     "display event timers below the minimap": {
       "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
       "Translations": {
-        "ruRU": "отображение таймера событий под мини-картой"
+        "ruRU": "Отображает таймеры событий под мини-картой"
       }
     },
     "configure various options of {0}": {
       "Context": "T4.Plugins.Default.GlobalOptions",
       "Translations": {
-        "ruRU": "настройка параметров {0}"
+        "ruRU": "Настройка параметров {0}"
       }
     },
     "framerate": {
       "Context": "T4.Plugins.Default.GlobalOptions",
       "Translations": {
-        "ruRU": "частота кадров"
+        "ruRU": "Частота кадров"
       }
     },
     "display item counters over the inventory/stash tabs": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "ruRU": "отображение счетчика предметов на вкладках инвентаря/хранилища"
+        "ruRU": "Отображает счетчик предметов на вкладках инвентаря/хранилища"
       }
     },
     "size": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "ruRU": "размер"
+        "ruRU": "Размер"
       }
     },
     "display items on the map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "отображение предметов на карте"
+        "ruRU": "Отображает предметы на карте"
       }
     },
     "fill style": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "ruRU": "цвет"
+        "ruRU": "Цвет"
       }
     },
     "show a notification when a legendary or higher item is dropped": {
       "Context": "T4.Plugins.Default.LegendaryDropNotification",
       "Translations": {
-        "ruRU": "отображение уведомления при выпадении легендарного или более редкого предмета"
+        "ruRU": "Отображает уведомление при выпадении легендарного или более редкого предмета"
       }
     },
     "display the \"Missed equipment\" counter over the inventory panel": {
       "Context": "T4.Plugins.Default.MissedEquipmentCountOverInventory",
       "Translations": {
-        "ruRU": "отображение количества \"Пропущенных предметов\" на панель инвентаря"
+        "ruRU": "Отображает счетчик \"пропущенных предметов\" на панель инвентаря"
       }
     },
     "display the missing (not activated) waypoints on the map": {
       "Context": "T4.Plugins.Default.MissingWaypointsOnMap",
       "Translations": {
-        "ruRU": "отображение не активированных врат странствий на карте"
+        "ruRU": "Отображает не активированные врата странствий на карте"
       }
     },
     "show the nearby monsters on the map": {
       "Context": "T4.Plugins.Default.MonsterOnMap",
       "Translations": {
-        "ruRU": "отображение ближайших монстров на карте"
+        "ruRU": "Отображает ближайших монстров на карте"
       }
     },
     "display an icon under NPCs in town": {
       "Context": "T4.Plugins.Default.NPCiconsOnGround",
       "Translations": {
-        "ruRU": "отображение иконки под NPC в городе"
+        "ruRU": "Отображает иконку под NPC в городе"
       }
     },
     "show the nearby herbs/ores on the map": {
       "Context": "T4.Plugins.Default.PlantsAndOresOnMap",
       "Translations": {
-        "ruRU": "отображение близлежащих травы/руды на карте"
+        "ruRU": "Отображает близлежащие травы/руды на карте"
       }
     },
     "display an icon under other players in town": {
       "Context": "T4.Plugins.Default.PlayersOnGround",
       "Translations": {
-        "ruRU": "отображение иконки под другими игроками в городе"
+        "ruRU": "Отображает иконку под другими игроками в городе"
       }
     },
     "primary texture": {
       "Context": "T4.Plugins.Default.PlayersOnGround",
       "Translations": {
-        "ruRU": "иконка класса"
+        "ruRU": "Иконка класса"
       }
     },
     "secondary texture": {
       "Context": "T4.Plugins.Default.PlayersOnGround",
       "Translations": {
-        "ruRU": "ваторичная текстура"
+        "ruRU": "Вторичная текстура"
       }
     },
     "show the name of the portal's destination on the map": {
       "Context": "T4.Plugins.Default.PortalDestinationOnMap",
       "Translations": {
-        "ruRU": "отображение названия места назначения портала на карте"
+        "ruRU": "Отображает название места назначения портала на карте"
       }
     },
     "show active side quest names on the map (experimental)": {
       "Context": "T4.Plugins.Default.SideQuestNameOnMap",
       "Translations": {
-        "ruRU": "отображение названия активных побочных квестов на карте (экспериментально)"
+        "ruRU": "Отображает названия активных побочных квестов на карте (экспериментально)"
       }
     },
     "show ingame \"signs\" on the map": {
       "Context": "T4.Plugins.Default.SignOnMap",
       "Translations": {
-        "ruRU": "отображение внутриигровых \"знаков\" на карте"
+        "ruRU": "Отображает внутриигровые \"знаки\" на карте"
       }
     },
     "show farming statistics at the top left corner": {
       "Context": "T4.Plugins.Default.StatTrackersInGame",
       "Translations": {
-        "ruRU": "отображение статистики в верхнем левом углу"
+        "ruRU": "Отображает статистику фарма в левом верхнем углу"
       }
     },
     "show all strongholds on the map": {
       "Context": "T4.Plugins.Default.StrongholdOnMap",
       "Translations": {
-        "ruRU": "отображение всех крепостей на карте"
+        "ruRU": "Отображает все крепости на карте"
       }
     },
     "customizations successfully saved to your account": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "настройки успешно сохранены для вашей учетной записи"
+        "ruRU": "Настройки успешно сохранены для вашей учетной записи"
       }
     },
     "plugin update started...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "запущено обновление плагина..."
+        "ruRU": "Запущено обновление плагина..."
       }
     },
     "item rules successfully saved to your account": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "правила успешно сохранены для вашей учетной записи"
+        "ruRU": "Правила успешно сохранены для вашей учетной записи"
       }
     },
     "saving item rules to your account failed: {0}": {
@@ -711,7 +711,7 @@
     "off": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "выкл"
+        "ruRU": "Выкл"
       }
     },
     "You need a license key!": {
@@ -723,7 +723,7 @@
     "loading...": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "загрузка..."
+        "ruRU": "Загрузка..."
       }
     },
     "Please provide a valid license:": {
@@ -741,25 +741,25 @@
     "saving customizations to your account failed: {0}": {
       "Context": "customizer",
       "Translations": {
-        "ruRU": "Сохранение настроек для учетной записи не удалось: {0}"
+        "ruRU": "Cохранение настроек для учетной записи не удалось: {0}"
       }
     },
     "can't download plugin update: {0}": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "невозможно загрузить обновление плагина: {0}"
+        "ruRU": "Невозможно загрузить обновление плагина: {0}"
       }
     },
     "please restart {0} to recompile the updated plugins": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "пожалуйста, перезапустите {0} для перекомпиляции обновленных плагинов"
+        "ruRU": "Пожалуйста, перезапустите {0} для перекомпиляции обновленных плагинов"
       }
     },
     "unexpected error: {0}": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "непредвиденная ошибка: {0}"
+        "ruRU": "Непредвиденная ошибка: {0}"
       }
     },
     "package '{0}' is updated to v{1}": {
@@ -771,19 +771,127 @@
     "at least {0} of these:": {
       "Context": "itemfilter",
       "Translations": {
-        "ruRU": "по крайней мере {0} из:"
+        "ruRU": "По крайней мере {0} из:"
       }
     },
     "plugin runtime errors: {0}": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "ошибки выполнения плагина: {0}"
+        "ruRU": "Ошибки выполнения плагина: {0}"
       }
     },
     "{0} {1} is only compatible with Diablo IV {2}, however your version is {3}.": {
       "Context": "internal",
       "Translations": {
-        "ruRU": "{0} {1} совместим только с Diablo IV {2}, ваша версия - {3}."
+        "ruRU": "{0} {1} совместим только с Diablo IV {2}, однако ваша версия - {3}."
+      }
+    },
+    "sum of skill rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "ruRU": "sum of skill rank bonuses"
+      }
+    },
+    "sum of skill cluster rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "ruRU": "sum of skill cluster rank bonuses"
+      }
+    },
+    "sum of skill type rank bonuses": {
+      "Context": "itemfilter-stat",
+      "Translations": {
+        "ruRU": "sum of skill type rank bonuses"
+      }
+    },
+    "alphabetical": {
+      "Context": "customizer-view",
+      "Translations": {
+        "ruRU": "alphabetical"
+      }
+    },
+    "by category": {
+      "Context": "customizer-view",
+      "Translations": {
+        "ruRU": "by category"
+      }
+    },
+    "by package": {
+      "Context": "customizer-view",
+      "Translations": {
+        "ruRU": "by package"
+      }
+    },
+    "Utility": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Utility"
+      }
+    },
+    "behavior settings": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "ruRU": "behavior settings"
+      }
+    },
+    "Fight": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Fight"
+      }
+    },
+    "Map": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Map"
+      }
+    },
+    "Marker": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Marker"
+      }
+    },
+    "Inventory": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Inventory"
+      }
+    },
+    "material count": {
+      "Context": "T4.Plugins.Default.MaterialCountOverInventory",
+      "Translations": {
+        "ruRU": "material count"
+      }
+    },
+    "Loot": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Loot"
+      }
+    },
+    "Quest": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Quest"
+      }
+    },
+    "WorldEvent": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "WorldEvent"
+      }
+    },
+    "Dungeon": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "Dungeon"
+      }
+    },
+    "ActionBar": {
+      "Context": "customizer-category",
+      "Translations": {
+        "ruRU": "ActionBar"
       }
     }
   }
