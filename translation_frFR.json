@@ -279,7 +279,7 @@
     "quality modifier": {
       "Context": "itemfilter",
       "Translations": {
-        "frFR": "modificateur de qualité"
+        "frFR": "modificateur"
       }
     },
     "#1 mandatory": {
@@ -789,79 +789,79 @@
     "sum of skill rank bonuses": {
       "Context": "itemfilter-stat",
       "Translations": {
-        "frFR": "sum of skill rank bonuses"
+        "frFR": "somme des bonus de compétence"
       }
     },
     "sum of skill cluster rank bonuses": {
       "Context": "itemfilter-stat",
       "Translations": {
-        "frFR": "sum of skill cluster rank bonuses"
+        "frFR": "somme des bonus de cluster de compétences"
       }
     },
     "sum of skill type rank bonuses": {
       "Context": "itemfilter-stat",
       "Translations": {
-        "frFR": "sum of skill type rank bonuses"
+        "frFR": "somme des bonus de type de compétences"
       }
     },
     "alphabetical": {
       "Context": "customizer-view",
       "Translations": {
-        "frFR": "alphabetical"
+        "frFR": "ordre alphabétique"
       }
     },
     "by category": {
       "Context": "customizer-view",
       "Translations": {
-        "frFR": "by category"
+        "frFR": "par catégorie"
       }
     },
     "by package": {
       "Context": "customizer-view",
       "Translations": {
-        "frFR": "by package"
+        "frFR": "par paquet"
       }
     },
     "Utility": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Utility"
+        "frFR": "Utilité"
       }
     },
     "behavior settings": {
       "Context": "T4.Plugins.Default.GlobalOptions",
       "Translations": {
-        "frFR": "behavior settings"
+        "frFR": "paramètres comportementaux"
       }
     },
     "Fight": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Fight"
+        "frFR": "Combat"
       }
     },
     "Map": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Map"
+        "frFR": "Carte"
       }
     },
     "Marker": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Marker"
+        "frFR": "Marqueur"
       }
     },
     "Inventory": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Inventory"
+        "frFR": "Inventaire"
       }
     },
     "material count": {
       "Context": "T4.Plugins.Default.MaterialCountOverInventory",
       "Translations": {
-        "frFR": "material count"
+        "frFR": "compteur de matériaux"
       }
     },
     "Loot": {
@@ -873,25 +873,25 @@
     "Quest": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Quest"
+        "frFR": "Quête"
       }
     },
     "WorldEvent": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "WorldEvent"
+        "frFR": "Evènement mondial"
       }
     },
     "Dungeon": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "Dungeon"
+        "frFR": "Donjon"
       }
     },
     "ActionBar": {
       "Context": "customizer-category",
       "Translations": {
-        "frFR": "ActionBar"
+        "frFR": "Barre d'action"
       }
     }
   }
